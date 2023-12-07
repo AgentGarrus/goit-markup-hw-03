@@ -205,6 +205,8 @@ a {
 .portfolio {
     display: flex;
     flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 
 .products {
@@ -264,7 +266,7 @@ a {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    display: inline-flex;
+    display: inline-block;
     align-items: center;
     margin-bottom: 16px;
 }
@@ -293,9 +295,4 @@ a {
     background: #2E2F42;
     padding-top: 100px;
     padding-bottom: 100px;
-}
-
-.footerr {
-    display: inline-block;
-
 }
