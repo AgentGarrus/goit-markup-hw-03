@@ -40,11 +40,14 @@ img {
     align-items: flex-start;
     gap: 40px;
     margin-right: 332px;
-    padding: 24px 0;
 }
 
 a {
     text-decoration: none;
+}
+
+.headtop{
+    padding: 24px 0;
 }
 
 .page-nav {
@@ -72,7 +75,6 @@ a {
 .address-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .address-link {
