@@ -273,9 +273,9 @@ a {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    display: inline-block;
     align-items: center;
     margin-bottom: 16px;
-    display: inline-block;
 }
 
 .studiofooter {
