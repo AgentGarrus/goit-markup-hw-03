@@ -255,7 +255,17 @@ a {
     margin-right: 76px;
 }
 
-.logowebf {
+.studioheader {
+    color:#2E2F42;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -266,16 +276,6 @@ a {
     align-items: center;
     margin-bottom: 16px;
     display: inline-block;
-}
-
-.studioheader {
-    color:#2E2F42;
-    font-family: Raleway, sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
 }
 
 .studiofooter {
