@@ -286,6 +286,7 @@ a {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    display: inline-block;
 }
 
 .footercolor {
