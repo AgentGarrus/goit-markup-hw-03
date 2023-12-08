@@ -119,6 +119,7 @@ a {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    display: block;
 }
 
 .bcolor:hover,
