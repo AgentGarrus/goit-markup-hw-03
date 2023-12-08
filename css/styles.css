@@ -46,7 +46,7 @@ a {
 
 .header-con {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .page-nav {
@@ -121,6 +121,7 @@ a {
     border-radius: 4px;
     cursor: pointer;
     display: block;
+    margin: auto;
 }
 
 .bcolor:hover,
@@ -222,7 +223,6 @@ a {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
 }
 
 .header-three {
