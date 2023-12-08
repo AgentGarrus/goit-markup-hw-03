@@ -46,6 +46,10 @@ a {
     text-decoration: none;
 }
 
+.header-con {
+    display: flex;
+}
+
 .page-nav {
     font-size: 16px;
     font-weight: 500;
